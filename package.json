@@ -1,0 +1,20 @@
+{
+  "name": "anu48.github.io",
+  "version": "1.0.0",
+  "description": "This is the current version of my personal website using HTML and CSS for the first time. The purpose of this project was to create my own portfolio and introduce myself to the concept of web designing and development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anu48/anu48.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anu48/anu48.github.io/issues"
+  },
+  "homepage": "https://github.com/Anu48/anu48.github.io#readme"
+}
